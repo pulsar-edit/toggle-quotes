@@ -12,24 +12,5 @@
   },
   "engines": {
     "atom": "^1.0.8"
-  },
-  "devDependencies": {
-    "standard": "^5.1.0"
-  },
-  "standard": {
-    "globals": [
-      "advanceClock",
-      "atom",
-      "beforeEach",
-      "expect",
-      "describe",
-      "it",
-      "jasmine",
-      "MouseEvent",
-      "runs",
-      "spyOn",
-      "waits",
-      "waitsForPromise"
-    ]
   }
 }
