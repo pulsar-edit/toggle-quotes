@@ -3,7 +3,7 @@
   "version": "1.1.4",
   "main": "./lib/main",
   "description": "Quickly toggle between single and double quotes",
-  "repository": "https://github.com/atom/toggle-quotes",
+  "repository": "https://github.com/pulsar-edit/toggle-quotes",
   "license": "MIT",
   "activationCommands": {
     "atom-text-editor": [
@@ -12,24 +12,5 @@
   },
   "engines": {
     "atom": "^1.0.8"
-  },
-  "devDependencies": {
-    "standard": "^5.1.0"
-  },
-  "standard": {
-    "globals": [
-      "advanceClock",
-      "atom",
-      "beforeEach",
-      "expect",
-      "describe",
-      "it",
-      "jasmine",
-      "MouseEvent",
-      "runs",
-      "spyOn",
-      "waits",
-      "waitsForPromise"
-    ]
   }
 }

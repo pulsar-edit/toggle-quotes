@@ -1,13 +1,10 @@
 # Toggle Quotes
 
-[![Build Status](https://travis-ci.org/atom/toggle-quotes.svg?branch=master)](https://travis-ci.org/atom/toggle-quotes)
-[![Dependency Status](https://david-dm.org/atom/toggle-quotes.svg)](https://david-dm.org/atom/toggle-quotes)
-
 Toggle a single-quoted string to a double-quoted string, and vice versa.
 
 ![toggle-quotes-demo](https://cloud.githubusercontent.com/assets/823545/9016150/aa73ab62-379c-11e5-8622-8dbb492ff4f1.gif)
 
-This is a package for [Atom](https://atom.io), a hackable text editor for the 21st Century.
+This is a package for [Pulsar](https://pulsar-edit.dev/), a community-led hyper-hackable text editor.
 
 ## Usage
 
@@ -50,4 +47,4 @@ has some extra information.
 
 ## License
 
-[MIT License](http://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/atom/toggle-quotes/blob/master/LICENSE.md) for more details.
+[MIT License](http://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/pulsar-edit/toggle-quotes/blob/master/LICENSE.md) for more details.
